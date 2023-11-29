@@ -10,7 +10,7 @@
 I try to learn everything I find interesting. There is no limit of my field of interest. Some people say it is bad for me to try to learn everything. But I say __SCREW THAT__ :trollface:
 <br/>
 currently I am learning and doing some small projects (Which are not impressive)
-You can say that I am a `Lv10` programming wizard 🧙‍♂️ <br/> `Lv7` tinker :toolbox: <br/> `Lv3` Bug Hunter 👾
+You can say that I am a: <br/> `Lv10` programming wizard 🧙‍♂️ <br/> `Lv7` tinker :toolbox: <br/> `Lv3` Bug Hunter 👾
 
 
 #### My Git Status: 
