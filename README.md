@@ -1,16 +1,17 @@
-### Hi there 👋
+# I am Tasif :star_and_crescent:
+#### I am a:
+* Science enthusiast :test_tube:
+* Coder :keyboard:
+* Web Developer :pager:
+* Tinker :hammer_and_wrench:
+* I Love YoYo :yo_yo:
+* Noob Gamer :video_game:
+## About Me
+I try to learn everything I find interesting. There is no limit of my field of interest. Some people say it is bad for me to try to learn everything. But I say __SCREW THAT__ :trollface:
+<br/>
+currently I am learning and doing some small projects (Which are not impressive)
+You can say that I am a `Lv10` programming wizard and `Lv7` tinker :toolbox:
 
-<!--
-**Sayed-Tasif/Sayed-Tasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Git Status: 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayed-Tasif&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
